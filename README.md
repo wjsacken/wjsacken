@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img align="right" height="150" src="https://artscube.biz/graphics/redesign/Arts_Cube.svg"  />
+  <img height="150" src="https://artscube.biz/graphics/redesign/Arts_Cube.svg"  />
 </div>
 
 ###
