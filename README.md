@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is Wes and I'm the COO of Art's Cube</h2>
-
-###
 
 <div align="center">
   <img height="150" src="https://artscube.biz/graphics/redesign/Arts_Cube.svg"  />
@@ -11,7 +8,6 @@
 <img align="right" src="https://streak-stats.demolab.com?user=wjsacken&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjsacken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
