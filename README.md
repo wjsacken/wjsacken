@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wjsacken/wjsacken/snake.svg" alt="Snake animation" />
+<img src="https://github.com/wjsacken/wjsacken/blob/3600905da819380cbb59db1e6858d8092fe321ac/snake.svg" alt="Snake animation" />
 
 ###
