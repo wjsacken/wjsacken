@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://artscube.biz/graphics/redesign/Arts_Cube.svg"  />
+  <img height="150" src="https://imagedelivery.net/DF926RUMiBgxrQOCj6Rcgg/9c44ebbe-1d85-44c5-d001-904000aa0700/rippleLogo"  />
 </div>
 
 ###
