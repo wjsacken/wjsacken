@@ -4,9 +4,7 @@
 </div>
 
 ###
-<div align="center" height="150" width="700">
-  <img align="left" src="https://streak-stats.demolab.com?user=wjsacken&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+
 
 <div align="center" width="700">
   <div align="left">
